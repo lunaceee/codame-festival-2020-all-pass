@@ -1,7 +1,7 @@
 <ul class="w-full mb-20 my-8 max-w-3xl px-4 text-white border-gray-200 border">
     {% if quicklinks.links %}
     {% for item in quicklinks.links %}
-    <li class="p-5 flex flex-col md:flex-row md:items-center justify-evenly">
+    <li class="p-5 flex flex-col md:flex-row md:items-center justify-evenly border-b">
         <h3 class="w-64 mr-4 md:self-center">
             {% if item.siteurl %}
             <a href="{{item.siteurl}}" target="_blank">{{item.title}} →</a>
