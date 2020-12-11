@@ -30,12 +30,6 @@ links:
     title: E-Lit Games (Playing With Words)
     siteurl: http://codame.com/events/e-lit-games-playing-with-words
     url: https://zoom.us/j/92082137477?pwd=Q0NDbzdaVnZ1NXEvRkUvOU5yS0xpUT09
-  - date: Dec 13, 2020
-    time: 3pm PST
-    type: Live event
-    title: "Festival Grounds Opening"
-    siteurl: https://codame.com/events/festival-grounds-opening
-    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
   - date: Dec 15, 2020
     time: 11:30am PST
     type: Workshop
@@ -115,7 +109,7 @@ links:
     url: "https://discord.gg/pk3C8DB"
   - date: Dec 16, 2020
     time: 10am PST
-    type: Live Event
+    type: Live event
     title: Async Cryptovoxels Tour
     siteurl: 
     url: https://www.cryptovoxels.com/play?coords=N@156E,255S
@@ -131,6 +125,12 @@ links:
     type: Live event
     url: "http://twitch.tv/codame"
     siteurl: "http://codame.com/events/modv-audio-visual-live-performance"
+  - date: Dec 13, 2020
+    time: 3pm PST
+    type: Live event
+    title: "Festival Grounds Opening"
+    siteurl: https://codame.com/events/festival-grounds-opening
+    url: https://zoom.us/j/99933089822?pwd=WE15bldNNnhLaUVja01vczZ5NFNQUT09
   - title: "Harddiskmuseum Tour"
     date: Dec 14, 2020
     time: 10am PST
