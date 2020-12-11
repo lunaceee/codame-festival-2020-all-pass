@@ -107,12 +107,7 @@ links:
     time: 5pm PST
     type: Live event
     url: "https://discord.gg/pk3C8DB"
-  - date: Dec 16, 2020
-    time: 10am PST
-    type: Live event
-    title: Async Cryptovoxels Tour
-    siteurl: 
-    url: https://www.cryptovoxels.com/play?coords=N@156E,255S
+    siteurl: https://codame.com/events/happy-hour-on-discord
   - title: "Curiously Minded: Live Coding Shaders"
     date: Dec 12, 2020
     time: 10am PST
@@ -143,6 +138,12 @@ links:
     type: Live event
     url: "https://codame.com"
     siteurl: https://codame.com/events/behind-the-screens-with-sven-eberwein
+  - date: Dec 16, 2020
+    time: 10am PST
+    type: Live event
+    title: Async Cryptovoxels Tour
+    siteurl: 
+    url: https://www.cryptovoxels.com/play?coords=N@156E,255S
   - title: "AR/VR Art and Storytelling  w/Q&A"
     date: Dec 16, 2020
     time: 5:30pm PST
