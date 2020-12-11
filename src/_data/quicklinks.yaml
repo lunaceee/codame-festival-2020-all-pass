@@ -1,101 +1,5 @@
 ---
 links:
-  - date: Dec 11, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Minting Crypto Art NFTs
-    siteurl: https://codame.com/events/mint-crypto-art-tokens
-    url: https://zoom.us/j/94025074919?pwd=blg4aW4zT2poMlIxaHQ1MHFIcnZvQT09
-  - date: Dec 12, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Compose Generative Music With Gibber
-    siteurl: https://codame.com/events/compose-music-with-code
-    url: https://zoom.us/j/97820762800?pwd=eklHVHlOZ3FOWnNhZkU1bS81R3ZNZz09
-  - date: Dec 12, 2020
-    time: 3pm PST
-    type: Workshop
-    title: Build VR with JS
-    siteurl: https://codame.com/events/build-a-vr-space-with-spaces
-    url: https://zoom.us/j/91633980955?pwd=c1liY3RpUFV6bWI5YXRJZVZWZ0dEQT09
-  - date: Dec 13, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Build Your Being in Spark AR
-    siteurl: https://codame.com/events/build-your-being-in-spark-ar
-    url: https://zoom.us/j/97130950761?pwd=ZEszeGZ1TWtrWnZLRzZYVmtDZzVydz09
-  - date: Dec 14, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: E-Lit Games (Playing With Words)
-    siteurl: http://codame.com/events/e-lit-games-playing-with-words
-    url: https://zoom.us/j/92082137477?pwd=Q0NDbzdaVnZ1NXEvRkUvOU5yS0xpUT09
-  - date: Dec 15, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: VR DJ Fundamentals in TribeXR
-    siteurl: https://codame.com/events/learn-to-dj-in-vr-with-tribe-xr
-    url: https://discord.gg/pk3C8DB
-  - date: Dec 15, 2020
-    time: 6pm PST
-    type: Workshop
-    title: Make Holiday Cards with iOS
-    siteurl: https://codame.com/events/make-ar-holiday-cards
-    url: https://zoom.us/j/94830743365?pwd=eUZNVmhIdGpncDByelNoaHpSOHRzQT09
-  - date: Dec 16, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Modular Audio Visualisation with modV
-    siteurl: http://codame.com/events/modular-audio-visualisation-with-modv
-    url: https://zoom.us/j/92500479304?pwd=eWtTUDUzcDlJcjI4dEVUNmw0Z1VRZz09
-  - date: Dec 16, 2020
-    time: 6pm PST
-    type: Workshop
-    title: Wild Goose Moving Meditation
-    siteurl: https://codame.com/events/wild-goose-moving-meditation
-    url: https://zoom.us/j/97582073284?pwd=cUR2UktnSHFYMC9ocmM1QVdnbU43dz09
-  - date: Dec 17, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Mashup 3d Models with Blender
-    siteurl: https://codame.com/events/mashup-3d-models-in-blender
-    url: https://zoom.us/j/94065263766?pwd=ME5VdUlLL1g2ZEFMV3JrUllpL2hLQT09
-  - date: Dec 17, 2020
-    time: 3pm PST
-    type: Workshop
-    title: Shader Park
-    siteurl: https://codame.com/events/3d-graphics-and-animation-with-shaderpark
-    url: https://zoom.us/j/91235041036?pwd=cnhMNC9GajNXUDRqUTYxTytNdTc4Zz09
-  - date: Dec 18, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Sketching Worlds in 360
-    siteurl: http://codame.com/events/sketching-worlds-in-360
-    url: https://zoom.us/j/99411621997?pwd=QTFyNXVCNWdMWGlTQ0xjUnQ4VldDQT09
-  - date: Dec 19, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Stylize Selfies with Hydra Blockly
-    siteurl: http://codame.com/events/stylize-selfies-with-hydra-blockly
-    url: https://zoom.us/j/97629606955?pwd=emt5T2dJOC9wQ3gyQ0tCNUpFUko2QT09
-  - date: Dec 19, 2020
-    time: 2pm PST
-    type: Workshop
-    title: Poetic Programming with in:verse
-    siteurl: https://codame.com/events/poetic-programming-with-in-verse
-    url: https://zoom.us/j/98522288393?pwd=bFQ5QXNQTTh2Z0ZxNEFiUDhFcG1HUT09
-  - date: Dec 20, 2020
-    time: 9am PST
-    type: Workshop
-    title: Art Gallery Creation in Minecraft
-    siteurl: https://codame.com/events/build-a-virtual-art-gallery-in-minecraft
-    url: https://zoom.us/j/95793663931?pwd=UXROaTlTSkZ0KzlCeWFaL1FCWEpUZz09
-  - date: Dec 20, 2020
-    time: 11:30am PST
-    type: Workshop
-    title: Make Art with Machine Learning
-    siteurl: http://codame.com/events/make-art-with-machine-learning
-    url: https://zoom.us/j/95793663931?pwd=UXROaTlTSkZ0KzlCeWFaL1FCWEpUZz09
   - title: "New Age Of Renaissance: How to Integrate Art, Science, Technology & AI into Public Spaces"
     date: Dec 11, 2020
     time: 10am PST
@@ -275,4 +179,99 @@ links:
   - title: VR music videos 4 - Vape Dadz
     type: "Anytime Experience"
     url: https://vimeo.com/showcase/7186556/video/423907927
-  
+  - date: Dec 11, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Minting Crypto Art NFTs
+    siteurl: https://codame.com/events/mint-crypto-art-tokens
+    url: https://zoom.us/j/94025074919?pwd=blg4aW4zT2poMlIxaHQ1MHFIcnZvQT09
+  - date: Dec 12, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Compose Generative Music With Gibber
+    siteurl: https://codame.com/events/compose-music-with-code
+    url: https://zoom.us/j/97820762800?pwd=eklHVHlOZ3FOWnNhZkU1bS81R3ZNZz09
+  - date: Dec 12, 2020
+    time: 3pm PST
+    type: Workshop
+    title: Build VR with JS
+    siteurl: https://codame.com/events/build-a-vr-space-with-spaces
+    url: https://zoom.us/j/91633980955?pwd=c1liY3RpUFV6bWI5YXRJZVZWZ0dEQT09
+  - date: Dec 13, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Build Your Being in Spark AR
+    siteurl: https://codame.com/events/build-your-being-in-spark-ar
+    url: https://zoom.us/j/97130950761?pwd=ZEszeGZ1TWtrWnZLRzZYVmtDZzVydz09
+  - date: Dec 14, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: E-Lit Games (Playing With Words)
+    siteurl: http://codame.com/events/e-lit-games-playing-with-words
+    url: https://zoom.us/j/92082137477?pwd=Q0NDbzdaVnZ1NXEvRkUvOU5yS0xpUT09
+  - date: Dec 15, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: VR DJ Fundamentals in TribeXR
+    siteurl: https://codame.com/events/learn-to-dj-in-vr-with-tribe-xr
+    url: https://discord.gg/pk3C8DB
+  - date: Dec 15, 2020
+    time: 6pm PST
+    type: Workshop
+    title: Make Holiday Cards with iOS
+    siteurl: https://codame.com/events/make-ar-holiday-cards
+    url: https://zoom.us/j/94830743365?pwd=eUZNVmhIdGpncDByelNoaHpSOHRzQT09
+  - date: Dec 16, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Modular Audio Visualisation with modV
+    siteurl: http://codame.com/events/modular-audio-visualisation-with-modv
+    url: https://zoom.us/j/92500479304?pwd=eWtTUDUzcDlJcjI4dEVUNmw0Z1VRZz09
+  - date: Dec 16, 2020
+    time: 6pm PST
+    type: Workshop
+    title: Wild Goose Moving Meditation
+    siteurl: https://codame.com/events/wild-goose-moving-meditation
+    url: https://zoom.us/j/97582073284?pwd=cUR2UktnSHFYMC9ocmM1QVdnbU43dz09
+  - date: Dec 17, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Mashup 3d Models with Blender
+    siteurl: https://codame.com/events/mashup-3d-models-in-blender
+    url: https://zoom.us/j/94065263766?pwd=ME5VdUlLL1g2ZEFMV3JrUllpL2hLQT09
+  - date: Dec 17, 2020
+    time: 3pm PST
+    type: Workshop
+    title: Shader Park
+    siteurl: https://codame.com/events/3d-graphics-and-animation-with-shaderpark
+    url: https://zoom.us/j/91235041036?pwd=cnhMNC9GajNXUDRqUTYxTytNdTc4Zz09
+  - date: Dec 18, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Sketching Worlds in 360
+    siteurl: http://codame.com/events/sketching-worlds-in-360
+    url: https://zoom.us/j/99411621997?pwd=QTFyNXVCNWdMWGlTQ0xjUnQ4VldDQT09
+  - date: Dec 19, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Stylize Selfies with Hydra Blockly
+    siteurl: http://codame.com/events/stylize-selfies-with-hydra-blockly
+    url: https://zoom.us/j/97629606955?pwd=emt5T2dJOC9wQ3gyQ0tCNUpFUko2QT09
+  - date: Dec 19, 2020
+    time: 2pm PST
+    type: Workshop
+    title: Poetic Programming with in:verse
+    siteurl: https://codame.com/events/poetic-programming-with-in-verse
+    url: https://zoom.us/j/98522288393?pwd=bFQ5QXNQTTh2Z0ZxNEFiUDhFcG1HUT09
+  - date: Dec 20, 2020
+    time: 9am PST
+    type: Workshop
+    title: Art Gallery Creation in Minecraft
+    siteurl: https://codame.com/events/build-a-virtual-art-gallery-in-minecraft
+    url: https://zoom.us/j/95793663931?pwd=UXROaTlTSkZ0KzlCeWFaL1FCWEpUZz09
+  - date: Dec 20, 2020
+    time: 11:30am PST
+    type: Workshop
+    title: Make Art with Machine Learning
+    siteurl: http://codame.com/events/make-art-with-machine-learning
+    url: https://zoom.us/j/95793663931?pwd=UXROaTlTSkZ0KzlCeWFaL1FCWEpUZz09
