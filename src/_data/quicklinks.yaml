@@ -103,13 +103,16 @@ links:
     url: https://forms.gle/DWthdfRsPZ6c4wV57
   - title: "Cangjie's Poetry"
     type: "Anytime Experience"
-    url: "http://codame.com/projects/cangjie-s-poetry"
+    url: https://www.zhangweidi.com/cangjiepoetryjoynt
   - title: "M Carbon Dioxide"
     type: "Anytime Experience"
     url: "http://codame.com/projects/m-carbon-dioxide"
-  - title: "Cosmos"
+  - title: "Cosmos - 1"
     type: "Anytime Experience"
     url: http://www.plus360degrees.com/codame/galaxy/
+  - title: "Cosmos - 2"
+    type: "Anytime Experience"
+    url: http://www.plus360degrees.com/codame/planets/
   - title: "VR Music Videos"
     type: "Anytime Experience"
     url: "https://codame.com/projects/vr-music-videos"
@@ -128,6 +131,9 @@ links:
   - title: "Paras Digital Art Cards"
     type: "Anytime Experience"
     url: https://paras.id/codame.near
+  - title: Arduino Advent
+    type: "Anytime Experience"
+    url: https://github.com/CODAME/arduino-advent/tree/main/2020/ArduinoMenorah
   - title: "Glitch-Me"
     type: "Anytime Experience"
     url: "https://codame.com/projects/glitch-me"
