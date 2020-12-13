@@ -107,12 +107,9 @@ links:
   - title: "M Carbon Dioxide"
     type: "Anytime Experience"
     url: "http://codame.com/projects/m-carbon-dioxide"
-  - title: "Cosmos - 1"
+  - title: "Cosmos"
     type: "Anytime Experience"
-    url: http://www.plus360degrees.com/codame/galaxy/
-  - title: "Cosmos - 2"
-    type: "Anytime Experience"
-    url: http://www.plus360degrees.com/codame/planets/
+    url: http://www.plus360degrees.com/cosmos/
   - title: "VR Music Videos"
     type: "Anytime Experience"
     url: "https://codame.com/projects/vr-music-videos"
@@ -142,7 +139,7 @@ links:
     url: "https://codame.com/projects/transcending-taste-in-c0d3-kitchen"
   - title: "Spaces Gallery"
     type: "Anytime Experience"
-    url: "https://codame.com/projects/spaces-gallery"
+    url: https://linktr.ee/musevr
   - title: "Visual Poetry"
     type: "Anytime Experience"
     url: https://newart.city/show/codame-festival
